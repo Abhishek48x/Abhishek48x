@@ -22,3 +22,24 @@ A client-focused video project management platform with project workflows and ap
 
 ### My Watch Site
 A modern e-commerce-style watch website focused on clean UI and responsive design.
+
+## Tech Stack
+
+**Languages**
+- TypeScript
+- JavaScript
+- Python
+
+**Mobile**
+- React Native
+- Expo
+
+**Backend & Services**
+- Firebase
+- Firestore
+- Firebase Authentication
+
+**Tools**
+- Git
+- GitHub
+- VS Code
