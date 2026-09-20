@@ -14,13 +14,13 @@ Currently building and exploring:
 
 ## Featured Projects
 
-### NEXA
+### [NEXA](https://github.com/AbhishekPrajapat007/Nexa-app)
 A social platform built with React Native, Expo, TypeScript, and Firebase.
 
-### Abhi Editz
+### [Abhi Editz](https://github.com/AbhishekPrajapat007/abhi-editz)
 A client-focused video project management platform with project workflows and approval features.
 
-### My Watch Site
+### [My Watch Site](https://my-watch-site.vercel.app)
 A modern e-commerce-style watch website focused on clean UI and responsive design.
 
 ## Tech Stack
