@@ -62,7 +62,16 @@ A modern e-commerce-style watch website focused on clean UI and responsive desig
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Development Focus
+
+- Mobile application development
+- Full-stack web development
+- Backend architecture & APIs
+- Cloud storage and media systems
+- AI-powered applications
+
 ## Connect
 
 - GitHub: [@AbhishekPrajapat007](https://github.com/AbhishekPrajapat007)
-- Vercel: [My Watch Site](https://abhi-editz.vercel.app)
+- Email: [abhishekprajapat851@gmail.com](mailto:abhishekprajapat851@gmail.com)
+- Vercel: [Abhi Editz](https://abhi-editz.vercel.app)
