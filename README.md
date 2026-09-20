@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Abhishek Prajapat 👋
 
-<!--
-**Abhishekprajapat007/AbhishekPrajapat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | React Native • TypeScript • Python
 
-Here are some ideas to get you started:
+I build production-focused applications, web platforms, and developer tools with a focus on clean architecture, practical functionality, and polished user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building and exploring:
+- React Native & Expo
+- TypeScript & JavaScript
+- Python
+- Firebase & backend systems
+- AI-powered applications
+- Modern web development
+
+## Featured Projects
+
+### NEXA
+A social platform built with React Native, Expo, TypeScript, and Firebase.
+
+### Abhi Editz
+A client-focused video project management platform with project workflows and approval features.
+
+### My Watch Site
+A modern e-commerce-style watch website focused on clean UI and responsive design.
