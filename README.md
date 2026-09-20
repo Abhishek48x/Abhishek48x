@@ -23,23 +23,46 @@ A client-focused video project management platform with project workflows and ap
 ### [My Watch Site](https://my-watch-site.vercel.app)
 A modern e-commerce-style watch website focused on clean UI and responsive design.
 
+## Currently Building
+
+🚀 **NEXA** — A production-focused social platform built with React Native, Expo, TypeScript, Firebase, and Cloudinary.
+
+🛠️ **Abhi Editz** — A client-focused video project management platform using React, Vite, Supabase, and Cloudinary.
+
+🎯 **Next** — Expanding into AI-powered applications, backend systems, and modern web development.
+
+## GitHub Activity
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekPrajapat007&show_icons=true&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekPrajapat007&hide_border=true)
+
 ## Tech Stack
 
 **Languages**
-- TypeScript
-- JavaScript
-- Python
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Mobile**
-- React Native
-- Expo
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Backend & Services**
-- Firebase
-- Firestore
-- Firebase Authentication
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 **Tools**
-- Git
-- GitHub
-- VS Code
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Connect
+
+- GitHub: [@AbhishekPrajapat007](https://github.com/AbhishekPrajapat007)
+- Vercel: [My Watch Site](https://abhi-editz.vercel.app)
