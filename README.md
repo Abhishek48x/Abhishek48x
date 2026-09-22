@@ -14,10 +14,10 @@ Currently building and exploring:
 
 ## Featured Projects
 
-### [NEXA](https://github.com/AbhishekPrajapat007/Nexa-app)
+### [NEXA](https://github.com/Abhishek48x/Nexa-app)
 A social platform built with React Native, Expo, TypeScript, and Firebase.
 
-### [Abhi Editz](https://github.com/AbhishekPrajapat007/abhi-editz)
+### [Abhi Editz](https://github.com/Abhishek48x/abhi-editz)
 A client-focused video project management platform with project workflows and approval features.
 
 ### [My Watch Site](https://my-watch-site.vercel.app)
@@ -29,13 +29,13 @@ A modern e-commerce-style watch website focused on clean UI and responsive desig
 
 🛠️ **Abhi Editz** — A client-focused video project management platform using React, Vite, Supabase, and Cloudinary.
 
-🎯 **Next** — Expanding into AI-powered applications, backend systems, and modern web development.
+🎯 **Exploring** — AI-powered applications, backend systems, scalable architectures, and modern web development.
 
 ## GitHub Activity
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekPrajapat007&show_icons=true&hide_border=true&rank_icon=github)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek48x&show_icons=true&hide_border=true&rank_icon=github)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekPrajapat007&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek48x&hide_border=true)
 
 ## Tech Stack
 
@@ -62,6 +62,14 @@ A modern e-commerce-style watch website focused on clean UI and responsive desig
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## What I Build
+
+- Production-focused mobile applications
+- Client and business workflow platforms
+- Media-heavy applications and cloud storage systems
+- Full-stack web experiences
+- Backend-powered applications and APIs
+
 ## Development Focus
 
 - Mobile application development
@@ -72,6 +80,6 @@ A modern e-commerce-style watch website focused on clean UI and responsive desig
 
 ## Connect
 
-- GitHub: [@AbhishekPrajapat007](https://github.com/AbhishekPrajapat007)
+- GitHub: [@Abhishek48x](https://github.com/Abhishek48x)
 - Email: [abhishekprajapat851@gmail.com](mailto:abhishekprajapat851@gmail.com)
 - Vercel: [Abhi Editz](https://abhi-editz.vercel.app)
